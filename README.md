@@ -38,11 +38,6 @@ Run the bot continuously, extracting profits daily to maximize your investment's
 
 Join our Discord community for support and access to more tools like Jito pool bundling scripts, volume bots, maker bots, and other resources for token launches.
 
-## Discord Server
-
-https://discord.gg/rn84eaRv7Y
-
-My Discord Handle: testicklez
 
 ## Roadmap
 - Implement auto-sell functionality.
